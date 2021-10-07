@@ -36,6 +36,7 @@ body {
 .header div ul {
     list-style-type: none;
 }
+
 /* line items have margins and are inline*/
 .header div ul li {
     display: inline-block;
