@@ -12,4 +12,4 @@ Through this project, we learned about refactoring and how to take someone else'
 
 https://mwathomas.github.io/1-code-refactor/
 
-See output at in [assets] folder at 01-html-css-git-homework-output.jpeg
+![Final Output](assets/images/01-html-css-git-homework-output.jpeg)
